@@ -3,6 +3,8 @@ The first approach involves the use of a Hidden Markov Model (HMM) trained with 
 The second approach applies the K-means clustering algorithm on Bidirectional Encoder Representations from Transformers (BERT) embeddings to achieve the same objective.
 The performance of these two models is evaluated using different measures.
 
+Refer to the uploaded report for more details.
+
 Setup:
 
 To run this code you can simply make a copy of the uploaded notebook on collab and run the code there.
